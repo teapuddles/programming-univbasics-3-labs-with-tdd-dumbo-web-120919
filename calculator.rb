@@ -1,1 +1,1 @@
-first_number = (Integer) or (Float)
+first_number = 1
